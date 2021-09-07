@@ -1,0 +1,173 @@
+{
+  "bollywood": [
+    {
+      "name": "Mann Bharryaa 2.0",
+      "genre": "Top Bollywood",
+      "artist": "B Praak",
+      "ratings": "4.9/5",
+      "link": "https://music.youtube.com/watch?v=86h_3HSoEkc&list=RDAMVM86h_3HSoEkc"
+    },
+
+    {
+      "name": "Ranjha",
+      "genre": "Top Bollywood",
+      "artist": "Jasleen Royal & B Praak",
+      "ratings": "4.5/5",
+      "link": "https://music.youtube.com/watch?v=amWKXh9_EQE&list=RDAMVMamWKXh9_EQE"
+    },
+
+    {
+      "name": "Saath Kya Nibhaoge",
+      "genre": "Top Bollywood",
+      "artist": "Tony Kakkar & Altaaf Raja",
+      "ratings": "4/5",
+      "link": "https://music.youtube.com/watch?v=hJgfxROWoas&list=RDAMVMhJgfxROWoas"
+    },
+
+    {
+      "name": "Aawari",
+      "genre": "Top Bollywood",
+      "artist": "Dnan Dhool & Momina Mustehsan",
+      "ratings": "4.2/5",
+      "link": "https://music.youtube.com/watch?v=dRhjpiF-FmI&list=RDAMVMdRhjpiF-FmI"
+    }
+  ],
+  
+  "english": [
+    {
+      "name": "See You Again",
+      "genre": "English",
+      "artist": "Wiz Khalifa",
+      "ratings": "4.9/5",
+      "link": "https://music.youtube.com/watch?v=RgKAFK5djSk&list=RDAMVMRgKAFK5djSk"
+    },
+
+    {
+      "name": "Sorry",
+      "genre": "English",
+      "artist": "Justin Bieber",
+      "ratings": "4.4/5",
+      "link": "https://music.youtube.com/watch?v=v16qZcBllUU&list=RDAMVMv16qZcBllUU"
+    },
+
+    {
+      "name": "Uptown Funkst",
+      "genre": "English",
+      "artist": "Mark Ronson",
+      "ratings": "4/5",
+      "link": "https://music.youtube.com/watch?v=tYvFa2ARD24&list=RDAMVMtYvFa2ARD24"
+    },
+
+    {
+      "name": "Blank Space",
+      "genre": "remix",
+      "artist": "Taylor Swuft",
+      "ratings": "3.8/5",
+      "link": "https://music.youtube.com/watch?v=dC9QIUKviJU&list=RDAMVMdC9QIUKviJU"
+    }
+  ],
+  
+  "qawwali": [
+    {
+      "name": "Kali Kali Zulfon",
+      "genre": "workout",
+      "artist": "Nusrat Fateh Ali Khan",
+      "ratings": "4.9/5",
+      "link": "https://music.youtube.com/watch?v=dyS5HZoXUEQ&list=RDAMVMdyS5HZoXUEQ"
+    },
+
+    {
+      "name": "Yeh Jo Halka Saroor Hae",
+      "genre": "workout",
+      "artist": "Nusrat Fateh Ali Khan",
+      "ratings": "4.9/5",
+      "link": "https://music.youtube.com/watch?v=rzzIrS4rSzk&list=RDAMVMrzzIrS4rSzk"
+    },
+
+    {
+      "name": "Dam Mast Qalandar",
+      "genre": "workout",
+      "artist": "Nusrat Fateh Ali Khan",
+      "ratings": "4.2/5",
+      "link": "https://music.youtube.com/watch?v=v38w5djsbXM"
+    },
+
+    {
+      "name": "Nit Khair Mangan Sohniyan Mein Teri",
+      "genre": "workout",
+      "artist": "Rahat Fateh Ali Khan",
+      "ratings": "3.9/5",
+      "link": "https://music.youtube.com/watch?v=jf7W0cfkm7w"
+    }
+  ],
+    
+  "bands": [
+    {
+      "name": "Choo Lo",
+      "genre": "Band",
+      "artist": "The Local train",
+      "ratings": "4.9/5",
+      "link": "https://music.youtube.com/watch?v=1puGzGe_mfU&list=RDAMVM1puGzGe_mfU"
+    },
+
+    {
+      "name": "Sajni",
+      "genre": "Band",
+      "artist": "Jal- The Band",
+      "ratings": "4.7/5",
+      "link": "https://music.youtube.com/watch?v=JPcjR4KUiDQ&list=PLvliyNPwGrM9zkysZJJUJlIQPVNnYW5Xl"
+    },
+
+    {
+      "name": "Aaoge Tum Kabhi",
+      "genre": "Band",
+      "artist": "The Local train",
+      "ratings": "4.7/5",
+      "link": "https://music.youtube.com/watch?v=wuW2IiPqLhI&list=RDAMVMwuW2IiPqLhI"
+    },
+
+    {
+      "name": "Bikhra Hoon Main",
+      "genre": "Band",
+      "artist": "Jal- The Band",
+      "ratings": "4.2/5",
+      "link": "https://music.youtube.com/watch?v=R5mBFnZUbPU&list=PLvliyNPwGrM9zkysZJJUJlIQPVNnYW5Xl"
+    },
+  
+    {
+      "name": "Khudi",
+      "genre": "Band",
+      "artist": "The Local train",
+      "ratings": "4.5/5",
+      "link": "https://music.youtube.com/watch?v=-msI_RuQPDw&list=RDAMVM-msI_RuQPDw"
+    }
+  ],
+
+  "evergreen": [
+    {
+      "name": "Mehbooba Mehbooba",
+      "genre": "evergreen",
+      "artist": "R. D. Burman",
+      "ratings": "4.9/5",
+      "link": "https://www.youtube.com/watch?v=ByAbV-MKDgs"
+    },
+
+    {
+      "name": "Yeh Shaam Mastani",
+      "genre": "evergreen",
+      "artist": "Kishor Kumar",
+      "ratings": "4.7/5",
+      "link": "https://music.youtube.com/watch?v=wp7zOathDFo&list=RDAMVMwp7zOathDFo"
+    },
+
+    {
+      "name": "Kabhi Kabhi Mere Dil Mein",
+      "genre": "evergreen",
+      "artist": "Amitabh Bachchan",
+      "ratings": "4.5/5",
+      "link": "https://music.youtube.com/watch?v=BB6KvXQx090&list=RDAMVMwp7zOathDFo"
+    }
+  ]
+
+  }
+  
