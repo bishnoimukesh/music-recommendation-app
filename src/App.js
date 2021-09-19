@@ -4,7 +4,7 @@ import { useState } from "react";
 import songsData from "./songs.json";
 
 export default function App() {
-  var [genre, setGenre] = useState(songsData.lofi);
+  var [genre, setGenre] = useState(songsData.bollywood);
 
   function bollywoodMusicClickHandler() {
     setGenre(songsData.bollywood);
@@ -40,16 +40,16 @@ export default function App() {
 
       <div className="genres">
         <button id="lofi" onClick={bollywoodMusicClickHandler}>
-          Top Bollywood
+          Bollywood Mix
         </button>
         <button id="remix" onClick={englishMusicClickHandler}>
-          Top English
+          Hollywood Mix
         </button>
         <button id="evergreen" onClick={qawwaliMusicClickHandler}>
           Qawwali
         </button>
         <button id="zumba-gym" onClick={bandsMusicClickHandler}>
-          Bands
+          The  Bands
         </button>
         <button id="evergreen" onClick={evergreenMusicClickHandler}>
           Evergreen
