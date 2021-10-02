@@ -31,7 +31,7 @@ export default function App() {
       <a
         id="github-repo"
         title="Source code for this app"
-        href="https://github.com/bishnoimukesh"
+        href="https://github.com/bishnoimukesh/music-recommendation-app"
       >
         <i className="fab fa-github"></i>
       </a>
